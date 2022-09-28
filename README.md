@@ -1,8 +1,5 @@
 Problem Statement 
 Dataset: KNN Dataset
-https://drive.google.com/file/d/1HIIGwwVs7QsFWciGHvbbM0qgYUI0A5Xl/view
-or
-https://drive.google.com/file/d/1ovaiJ6dz-GmZPiSKJuUSkyKyiHGoC6I_/view?usp=sharing
 
  Import Libraries/Dataset
 1.	Download the dataset
